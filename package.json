@@ -1,0 +1,13 @@
+{
+  "name": "ts-range",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "to-gth <to.code01.g@gmail.com>",
+  "license": "MIT",
+  "private": true,
+
+  "dependencies": {
+    "ts-number": "to-gth/ts-number.git",
+    "ts-applicatin-error": "to-gth/ts-application-error.git"
+  }
+}
